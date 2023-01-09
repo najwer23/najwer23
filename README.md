@@ -8,11 +8,4 @@ I’m a Frontend Web Developer from Wrocław. I’m focused on building products
 [![dev.to badge](https://img.shields.io/badge/-najwer23-%23E60023?style=flat&logo=Pinterest)](https://pl.pinterest.com/najwer23)
 ![](https://komarev.com/ghpvc/?username=najwer23&color=orange&style=flat)
 
-<!-- https://simpleicons.org/?q=pintre -->
-
-### Stats 
-<img height="227" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najwer23&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=najwer23")](https://git.io/streak-stats)
-
 ### :goat:
