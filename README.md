@@ -1,5 +1,4 @@
-# <a href="https://najwer23.github.io/">Mariusz Najwer</a>
-## Frontend Software Engineer
+# Frontend Software Engineer
 
 [![dev.to badge](https://img.shields.io/badge/-portfolio-%239F2B68?style=flat&logo=GoogleChrome&logoColor=white)](https://najwer23.github.io/)
 [![dev.to badge](https://img.shields.io/badge/-resume-%23017745?style=flat&logo=AdobeAcrobatReader&logoColor=white)](https://najwer23.github.io/resume/)
