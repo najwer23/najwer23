@@ -1,5 +1,5 @@
-### Hi, I'm <a href="https://najwer23.github.io/">Mariusz Najwer</a> 👋
-I’m a Frontend Web Developer from Wrocław. I’m focused on building products with JavaScript, specifically React.js. Sometimes I work as Backend Developer with Node.js or PHP. Should you need any further information, please do not hesitate to contact me.
+#<a href="https://najwer23.github.io/">Mariusz Najwer</a>
+## Frontend Software Engineer
 
 [![dev.to badge](https://img.shields.io/badge/-portfolio-%239F2B68?style=flat&logo=GoogleChrome&logoColor=white)](https://najwer23.github.io/)
 [![dev.to badge](https://img.shields.io/badge/-resume-%23017745?style=flat&logo=AdobeAcrobatReader&logoColor=white)](https://najwer23.github.io/resume/)
