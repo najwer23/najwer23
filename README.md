@@ -1,5 +1,10 @@
 # Frontend Software Engineer
 
+Passionate and detail-oriented Software Engineer dedicated to building responsive and user-friendly web applications. Proficient in modern JavaScript frameworks, particularly React and Angular, with a strong foundation in HTML5, CSS3, and responsive design principles.
+
+Skilled in collaborating with cross-functional teams to deliver seamless user experiences and optimize application performance. Committed to staying updated with the latest industry trends and best practices in frontend development and UX/UI design.
+
+
 [![dev.to badge](https://img.shields.io/badge/-portfolio-%239F2B68?style=flat&logo=GoogleChrome&logoColor=white)](https://najwer23.github.io/)
 [![dev.to badge](https://img.shields.io/badge/-resume-%23017745?style=flat&logo=AdobeAcrobatReader&logoColor=white)](https://najwer23.github.io/resume/)
 [![twitter badge](https://img.shields.io/badge/-najwer23-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/najwer23)
