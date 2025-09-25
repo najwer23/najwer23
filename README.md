@@ -1,4 +1,4 @@
-# Frontend Software Engineer
+# Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-9F2B68?style=for-the-badge&logo=googlechrome&logoColor=white)](https://najwer23.github.io/)
 [![Résumé](https://img.shields.io/badge/Résumé-017745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://najwer23.github.io/resume/)
