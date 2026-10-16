@@ -1,7 +1,5 @@
 # Software Engineer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=najwer23&color=orange&style=for-the-badge)]()
-
 I build fast, accessible web applications that reach millions of users. From the TVN24.pl news platform at Warner Bros. Discovery to insurance purchase flows at Applied Systems.
 
 Over 12+ years across media, insurance, and e-commerce, I've worked on SSR architectures, microfrontend systems, design systems, and Server Driven UI. I have collaborated with international teams across Poland, the US, India, Canada, and Australia.
