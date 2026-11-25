@@ -1,24 +1,29 @@
 # Software Engineer
 
-I build fast, accessible web applications that reach millions of users. From the TVN24.pl news platform at Warner Bros. Discovery to insurance purchase flows at Applied Systems.
+I build fast, accessible web applications and the hard parts behind them: custom SSR engines, server-driven UI and design systems. From the TVN24.pl news portal at Warner Bros. Discovery to insurance purchase flows at Applied Systems.
 
-Over 12+ years across media, insurance, and e-commerce, I've worked on SSR architectures, microfrontend systems, design systems, and Server Driven UI. I have collaborated with international teams across Poland, the US, India, Canada, and Australia.
+Professional experience across insurance, media and e-commerce, working with international teams on React, Angular, TypeScript and Node.js.
 
 I care about real performance and shipping things that work.
 
 # Selected Projects
 
-### APPLIED SYSTEMS INC.
-Built a Server Driven UI insurance purchase flow using a recursive DFS algorithm to render a nested graph of ~60k-line JSON questions. Contributed to an admin panel, user tracking, statistical charts, and WCAG 2.1 AA compliance in an 8-person international team. Kept the codebase maintainable through code reviews and close collaboration with designers, QA, and backend engineers. Shared knowledge across the team by documenting solutions and helping new developers get up to speed with the question graph. Also focused on rendering performance, keeping the form smooth and responsive despite the large number of nested questions.
+### APPLIED SYSTEMS INC. · Insurance purchase flow
+I built a server-driven UI from scratch: a recursive DFS renderer that turns a huge, deeply nested question graph from backend JSON into a working, accessible (WCAG 2.1 AA) form. I shipped it in Angular, then rewrote it in React for the company's new design system. I cut load time from **14s to 3s** by profiling and fixing slow re-renders (memoization, state splitting, DFS caching). I also contributed to the admin panel, user tracking and charts, took over the Playwright E2E tests from QA, and onboarded new developers in an 8-person international team.
 
-### WARNER BROS. DISCOVERY, TVN24.pl
-Built TVN24.pl from scratch using SSR and an islands architecture with microfrontend React + Web Components. Delivered widgets for stocks, weather, polls, elections, TV guides, and a custom SSR rendering algorithm without external libs.
+### WARNER BROS. DISCOVERY · TVN24.pl
+I built TVN24.pl from scratch with SSR and an islands architecture, combining React microfrontends and Web Components. I designed a custom SSR rendering algorithm without external rendering libraries, which cut widget load time from **14 seconds to near-instant**. The election-night widgets I delivered ran with **zero downtime and zero errors** at peak traffic. Other widgets covered stocks, weather, polls and TV guides, all on immovable deadlines.
 
-### FLHF S.A
-Enhanced an e-commerce site with sliders, carousels, product listings, and a shopping cart. Focused on mobile optimization, SEO, CLS, page speed, and accessibility improvements via Lighthouse audits.
+### FLHF S.A. · E-commerce PWA
+I developed sliders, carousels, product listings and the shopping cart for a React PWA on Magento 2 and GraphQL. I used Lighthouse audits to improve SEO, page speed, CLS, accessibility and mobile usability.
 
-### EUROPA UBEZPIECZENIA
-Maintained and developed an internal insurance policy management system for agents and office workers. Built new modules, integrated payment and data verification systems, and worked across Angular frontend and Java/Groovy backend.
+### EUROPA UBEZPIECZENIA · Insurance back office
+I built new modules for an internal policy management system used by insurance agents and office staff. I integrated payment gateways and data verification services, working across Angular on the frontend and Java/Groovy on the backend.
+
+# Open Source
+
+- **[najwer23morsels](https://www.npmjs.com/package/najwer23morsels):** a React design system built on design tokens, with a recursive tokens-to-CSS-variables theming engine.
+- **[najwer23lang](https://github.com/najwer23/najwer23lang):** a zero-dependency i18n library where the English sentence in your code becomes the translation key, extracted to JSON automatically.
 
 <hr>
 
@@ -30,4 +35,4 @@ Maintained and developed an internal insurance policy management system for agen
 **NPM:** https://www.npmjs.com/~najwer23  
 **Gitfut:** https://gitfut.com/najwer23  
 **Nook:** https://najwer23.github.io/nook  
-**Blog** https://najwer23.github.io/#/blog
+**Blog:** https://najwer23.github.io/#/blog
