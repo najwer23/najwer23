@@ -23,7 +23,7 @@ I built new modules for an internal policy management system used by insurance a
 # Open Source
 
 - **[najwer23morsels](https://www.npmjs.com/package/najwer23morsels):** a React design system built on design tokens, with a recursive tokens-to-CSS-variables theming engine.
-- **[najwer23lang](https://github.com/najwer23/najwer23lang):** a zero-dependency i18n library where the English sentence in your code becomes the translation key, extracted to JSON automatically.
+- **[najwer23lang](https://www.npmjs.com/package/najwer23lang):** a zero-dependency i18n library where the English sentence in your code becomes the translation key, extracted to JSON automatically.
 
 <hr>
 
